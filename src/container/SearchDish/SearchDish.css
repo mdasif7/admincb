@@ -1,0 +1,17 @@
+.search-dish-container {
+    display: flex;
+    margin: 10px auto;
+    justify-content: center;
+
+}
+.round {
+    width: 100%;
+    border-radius: 15px;
+    border: 1px gray solid; 
+    padding: 10px 5px 5px 25px;
+    /* position: absolute; */
+    /* top: 0; */
+    /* left: 0; */
+    /* z-index: 5; */
+    outline: none;
+}
